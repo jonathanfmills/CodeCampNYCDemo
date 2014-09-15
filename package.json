@@ -1,0 +1,25 @@
+{
+  "name": "NYCCodeCamp",
+  "version": "0.0.0",
+  "description": "Demo for Node API talk at CodeCampNYC",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.8.1",
+    "express": "~4.9.0",
+    "mongoose": "~3.8.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanfmills/CodeCampNYCDemo"
+  },
+  "author": "jonathanfmills@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanfmills/CodeCampNYCDemo/issues"
+  },
+  "homepage": "https://github.com/jonathanfmills/CodeCampNYCDemo"
+}
